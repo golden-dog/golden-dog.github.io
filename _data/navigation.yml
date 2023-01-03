@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About Us"
-#    url: https://golden-dog.github.io/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://golden-dog.github.io/_pages/about.md
+  - title: "Dogs"
+  #   url: https://golden-dog.github.io/_pages/dogs.md
   # - title: "Sample Posts"
   #   url: /year-archive/
 #  - title: "Sample Collections"
