@@ -1,2 +1,2 @@
 permalink: /about/
-We have been raising and training golden retrievers for almost 20 years.
+We have been raising and training golden retrievers for close to 20 years.
