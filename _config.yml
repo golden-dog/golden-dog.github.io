@@ -153,6 +153,12 @@ footer:
 include:
   - .htaccess
   - _pages
+  - "_pages"
+  - _pages/about.md
+  - _pages/dogs.md
+  - "_pages/about.md"
+  - "_pages/dogs.md"
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -262,11 +268,10 @@ tag_archive:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
-#     category: /categories/:name/
+#     categoinclude: ["_pages"]ry: /categories/:name/
 #     tag: /tags/:name/
 
-permalink: /about/
-permalink: /dogs/
+
 
 # HTML Compression
 # - https://jch.penibelst.de/
