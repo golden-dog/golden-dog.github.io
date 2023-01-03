@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About Us"
-    url: /_pages/about.md
+    url: /about/
   - title: "Dogs"
-    url: /_pages/dogs.md
+    url: /dogs/
   # - title: "Sample Posts"
   #   url: /year-archive/
 #  - title: "Sample Collections"
