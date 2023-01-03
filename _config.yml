@@ -265,6 +265,8 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+permalink: /about/
+permalink: /dogs/
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -276,14 +278,11 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+
