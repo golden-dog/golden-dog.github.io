@@ -154,10 +154,10 @@ include:
   - .htaccess
   - _pages
   - "_pages"
-  - _pages/about.md
-  - _pages/dogs.md
-  - "_pages/about.md"
-  - "_pages/dogs.md"
+  - _pages/about.html
+  - _pages/dogs.html
+  - "_pages/about.html"
+  - "_pages/dogs.html"
 
 exclude:
   - "*.sublime-project"
