@@ -3,7 +3,7 @@ main:
   - title: "About Us"
     url: https://golden-dog.github.io/_pages/about.md
   - title: "Dogs"
-  #   url: https://golden-dog.github.io/_pages/dogs.md
+     url: https://golden-dog.github.io/_pages/dogs.md
   # - title: "Sample Posts"
   #   url: /year-archive/
 #  - title: "Sample Collections"
