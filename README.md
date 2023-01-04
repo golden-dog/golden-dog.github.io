@@ -4,7 +4,7 @@
 
 
 ## Gretel
-Gretel is a dark red golden from a line of distinguished field dogs. She is an absolute sweetheart---wonderful with children, cats, other animals and, above-all, with people! Her strong drive has made her easy to train. She earned her first scent work titles at just 8 months old, her Tracking Dog (TD) title at 14 months, and her Tracking Dog Excellent (TDX) title a year later.
+Gretel is a dark red golden from a line of distinguished field dogs. She is an absolute sweetheart---she is wonderful with children, cats, other animals and, above-all, with people! Her strong drive has made her easy to train. She earned her first scent work titles at just 8 months old, her Tracking Dog (TD) title at 14 months, and her Tracking Dog Excellent (TDX) title a year later.
 
 ![](IMG_3516.jpg)
 
