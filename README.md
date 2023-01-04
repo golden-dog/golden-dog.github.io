@@ -6,7 +6,7 @@
 ## Gretel
 Gretel is an absolute sweetheart. She is a dark red golden from a line of distinguished field dogs. She is wonderful with children, cats, and other dogs. Her strong drive has made her easy to train. She earned her first scentwork titles when she was ?? months old, and her Tracking Dog title ??.
 
-![](https://github.com/golden-dog/golden-dog.github.io/IMG_3516.jpg)
+![](IMG_3516.jpg)
 
 ### Health
 Gretel has completed all recommended health screenings to achieve the Canine Health Information Center (CHIC) certification. 
