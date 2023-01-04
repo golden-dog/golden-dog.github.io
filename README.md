@@ -4,7 +4,7 @@
 
 
 ## Gretel
-Gretel is an absolute sweetheart. She is a dark red golden from a line of distinguished field dogs. She is wonderful with children, cats, and other dogs. Her strong drive has made her easy to train. She earned her first scentwork titles when she was ?? months old, and her Tracking Dog title ??.
+Gretel is a dark red golden from a line of distinguished field dogs. She is an absolute sweetheart and wonderful with children, cats, and other animals. Her strong drive has made her easy to train. She earned her first scentwork titles when she was ?? months old, and her Tracking Dog title ??.
 
 ![](IMG_3516.jpg)
 
