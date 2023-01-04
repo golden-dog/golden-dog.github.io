@@ -9,7 +9,7 @@ Gretel is a dark red golden from a line of distinguished field dogs. She is an a
 ![](IMG_3516.jpg)
 
 ### Health
-Gretel has completed all recommended health screenings to achieve the Canine Health Information Center certification (CHIC# 176357).
+Gretel has completed all health screenings to recieve the Canine Health Information Center certification (CHIC# 176357):
 
 #### Hips
 Good (OFA GR-138260G31F-P-VPI)
